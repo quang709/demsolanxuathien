@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.AssemblyInfo.cs
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.exe
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.deps.json
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.runtimeconfig.json
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.runtimeconfig.dev.json
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.dll
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\bin\Debug\netcoreapp3.1\demsolanxuathien.pdb
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.dll
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.pdb
+C:\Users\admin\source\repos\demsolanxuathien\demsolanxuathien\obj\Debug\netcoreapp3.1\demsolanxuathien.genruntimeconfig.cache
